@@ -18,6 +18,11 @@ Our findings show that OPSN outperforms existing methods, achieving faster conve
 - **Path Optimization**: Aggregates threat data to determine the safest and most efficient path.
 - **Output Generation**: Provides the weighted path length for further decision-making processes.
 
+
+## Results
+
+
+
 ## Installation
 
 To install the required dependencies, you can use pip:
