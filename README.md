@@ -9,18 +9,11 @@ OPSN formulates optimization problems using a dedicated neural network. We teste
 Our findings show that OPSN outperforms existing methods, achieving faster convergence and greater versatility, making it a strong solution for optimization tasks.
 
 
+## Experimental Results
+### Neural Network Optimizer path planning
+The following image illustrates the path planning results, showing the computed path in relation to detected threats:
 
-## Features
-
-- **Input Handling**: Normalizes input data containing features such as position and velocity.
-- **Path Calculation**: Computes path positions from starting to ending points, incorporating multiple control points.
-- **Threat Detection**: Evaluates threat levels based on distances to circular threat objects.
-- **Path Optimization**: Aggregates threat data to determine the safest and most efficient path.
-- **Output Generation**: Provides the weighted path length for further decision-making processes.
-
-
-## Results
-
+![Experimental Results](path/to/your/image.png) 
 
 
 ## Installation
