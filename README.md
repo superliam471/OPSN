@@ -1,8 +1,14 @@
-# OPSN
+# Optimization Problem Solving Network (OPSN)
 
 ## Intro
 
-这个项目是一个用于 [项目功能描述，例如：2D 雷达 SLAM 算法] 的实现，旨在通过 [简要介绍该项目的目的，例如：实现机器人自主导航、环境建图和定位]。
+Optimization problems play a crucial role in scientific research and engineering. This project presents the Optimization Problem Solving Network (OPSN), a new neural network design aimed at solving these challenges effectively.
+
+OPSN formulates optimization problems using a dedicated neural network. We tested its performance on 15 CEC2017 benchmark functions and six real-world engineering problems, comparing the results with four other optimization algorithms.
+
+Our findings show that OPSN outperforms existing methods, achieving faster convergence and greater versatility, making it a strong solution for optimization tasks.
+
+
 
 ## Features
 
