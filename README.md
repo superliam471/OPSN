@@ -8,6 +8,10 @@ OPSN formulates optimization problems using a dedicated neural network. We teste
 
 Our findings show that OPSN outperforms existing methods, achieving faster convergence and greater versatility, making it a strong solution for optimization tasks.
 
+## Features
+The following diagram explains the principles of the network we designed:
+![Features](./fig2.jpg) 
+
 
 ## Experimental Results
 ### Neural Network Optimizer path planning
