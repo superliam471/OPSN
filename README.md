@@ -13,7 +13,7 @@ Our findings show that OPSN outperforms existing methods, achieving faster conve
 ### Neural Network Optimizer path planning
 The following image illustrates the path planning results, showing the computed path in relation to detected threats:
 
-![Experimental Results](path/to/your/image.png) 
+![Experimental Results](./fig7.png) 
 
 
 ## Installation
